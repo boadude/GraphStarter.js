@@ -1,5 +1,8 @@
 # GraphStarter.js
 
+[![GitHub version](https://badge.fury.io/gh/codingandfitness%2FGraphStarter.js.svg)](https://badge.fury.io/gh/codingandfitness%2FGraphStarter.js)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodingandfitness%2FGraphStarter.js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodingandfitness%2FGraphStarter.js?ref=badge_shield)
+
 A Starter Project for Graph development.
 
 - Apollo Graph
@@ -204,6 +207,8 @@ The repository use the Domain-Driven File Structure.
 - Protect with Auth0 Querys and Mutations.
 - CI/CD with AWS CodePipeline in AWS Lambda
 - Module Resolver for fixing Relative Paths.
+- Commit Linter
+- Releasing
 
 # License
 
