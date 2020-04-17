@@ -1,9 +1,6 @@
 # GraphStarter.js
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcodingandfitness%2FGraphStarter.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcodingandfitness%2FGraphStarter.js?ref=badge_shield)
-
-
 [![GitHub version](https://badge.fury.io/gh/codingandfitness%2FGraphStarter.js.svg)](https://badge.fury.io/gh/codingandfitness%2FGraphStarter.js)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodingandfitness%2FGraphStarter.js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodingandfitness%2FGraphStarter.js?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcodingandfitness%2FGraphStarter.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcodingandfitness%2FGraphStarter.js?ref=badge_shield)
 
 A Starter Project for Graph development.
 
