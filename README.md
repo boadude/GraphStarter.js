@@ -12,6 +12,20 @@ A Starter Project for Graph development.
 
 # Table of Content
 
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Examples](#examples)
+  - [Querys](#querys)
+    - [Get all Books](#get-all-books)
+    - [Get specific Library](#get-specific-library)
+  - [Mutation](#mutation)
+    - [Create a Library](#create-a-library)
+- [Configuration](#configuration)
+  - [VSCode extensions](#vscode-extensions)
+- [Folder Structure](#folder-structure)
+- [Roadmap](#roadmap)
+- [License](#license)
+
 # Requirements
 
 - Node 10+
@@ -19,7 +33,7 @@ A Starter Project for Graph development.
 
 # Installation
 
-### Part 1 - Install project and dependencies
+## Part 1 - Install project and dependencies
 
     # Clone repository
     git clone git@github.com:codingandfitness/graph-starter.git --depth=1
@@ -30,7 +44,7 @@ A Starter Project for Graph development.
     # Install dependencies
     npm i
 
-### Part 2 - Install Postgres
+## Part 2 - Install Postgres
 
     # Config environment vars
     export DB_NAME=graph-starter
@@ -39,7 +53,7 @@ A Starter Project for Graph development.
     # Start postgres, and create tables and data for testing
     docker-compose up -d
 
-### Part 3 - Environment Variables configuration
+## Part 3 - Environment Variables configuration
 
     # Apollo Graph Manager (optional)
     APOLLO_KEY=<put-you-key-here>
@@ -51,7 +65,7 @@ A Starter Project for Graph development.
     DATABASE_USER=postgres
     DATABASE_PASS=123456
 
-### Part 4 - Start project
+## Part 4 - Start project
 
     # Start the project with nodemon
     npm start
