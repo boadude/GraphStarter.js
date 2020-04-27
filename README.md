@@ -1,6 +1,14 @@
 <p align="center">
-    <img src="https://codingandfitness.s3.amazonaws.com/images/graphstarter.png" /><br>
+    <img src="https://codingandfitness.s3.amazonaws.com/images/graphstarter-v2.png" /><br>
     A Starter Project for Graph development.
+</p>
+
+<p align="center">
+    <a href="#"><img src="https://img.shields.io/github/v/release/codingandfitness/GraphStarter.js" alt="GitHub release"></a>
+    <a href="https://stackshare.io/codingandfitness/graphstarter-js"><img src="https://img.shields.io/badge/StackShare-GraphStarter.js-blue.svg" alt="Stack Share"></a>
+    <a href="#"><img src="https://img.shields.io/github/license/codingandfitness/GraphStarter.js" alt="Stack Share"></a>
+    <a href="#"><img src="https://img.shields.io/github/last-commit/codingandfitness/GraphStarter.js" alt="GitHub last commit"></a>
+    <a href="#"><img src="https://img.shields.io/github/languages/code-size/codingandfitness/GraphStarter.js" alt="GitHub code size in bytes"></a>
 </p>
 
 ---
