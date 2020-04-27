@@ -23,6 +23,7 @@ const server = new ApolloServer({
   context: createContext,
   typeDefs: [typeDef, mutation.typeDef, book.typeDef, library.typeDef],
   resolvers: [mutation.resolvers, book.resolvers, library.resolvers],
+  subscriptions: false,
   engine: {
     apiKey: process.env.ENGINE_API_KEY,
   },
